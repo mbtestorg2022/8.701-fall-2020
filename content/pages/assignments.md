@@ -7,14 +7,75 @@ uid: da408d4d-5d5b-7887-9cb1-c80727794ea6
 Problem Sets
 ------------
 
-| PROBLEM SETS | SOLUTIONS |
-| --- | --- |
-| [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset1) | [Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset1_soln) |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset2) | [Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset2_soln) |
-| [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset3) | [Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset3_soln) |
-| [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset4) | [Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset4_soln) |
-| [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset5) | [Problem Set 5 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset5_soln) |
-| [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset6) | [Problem Set 6 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset6_soln) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 1 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset1_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 2 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset2_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset3)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 3 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset3_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 4 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset4_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset5)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 5 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset5_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset6)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 6 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_pset6_soln)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Paper Presentation
 ------------------

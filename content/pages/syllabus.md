@@ -66,18 +66,140 @@ Calendar
 
 This course is organized around the following content chapters.
 
-| CHAPTER # and TOPICS | KEY DATES |
-| --- | --- |
-| Chapter 0. Introduction | &nbsp; |
-| Chapter 1. Fermions, Bosons, and Fields | Problem set 1 posted |
-| Chapter 2. Symmetries | &nbsp; |
-| Chapter 3. Feynman Calculus | Problem set 2 posted  {{< br >}}Problem set 1 due |
-| Chapter 4. QED | &nbsp; |
-| Chapter 5. QCD | Problem set 3 posted  {{< br >}}Problem set 2 due |
-| Chapter 6. Weak Interactions | Problem set 4 posted  {{< br >}}Problem set 3 due |
-| &nbsp; | Oral exam 1 |
-| Chapter 7. Higgs Physics | &nbsp; |
-| Chapter 8. Neutrino Physics | Problem set 5 posted  {{< br >}}Problem set 4 due |
-| Chapter 9. Nuclear Physics | Problem set 6 posted  {{< br >}}Problem set 5 due |
-| Chapter 10. Instrumentation | Problem set 6 due |
-| &nbsp; | Oral exam 2
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+CHAPTER # and TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 0. Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 1. Fermions, Bosons, and Fields
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 posted
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 2. Symmetries
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 3. Feynman Calculus
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 posted  
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 4. QED
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 5. QCD
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 posted  
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 6. Weak Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 posted  
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Oral exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 7. Higgs Physics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 8. Neutrino Physics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 posted  
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 9. Nuclear Physics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 posted  
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Chapter 10. Instrumentation
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Oral exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
