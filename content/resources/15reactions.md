@@ -14,10 +14,10 @@ title: 1.5.Reactions.mp4
 uid: 4e6e8987-418b-446f-a4a9-8b3fe73706e3
 video_files:
   video_captions_file: ''
-  video_thumbnail_file: ''
+  video_thumbnail_file: https://img.youtube.com/vi/-1MbzJIUTV4/default.jpg
   video_transcript_file: ''
 video_metadata:
   video_speakers: ''
   video_tags: ''
-  youtube_id: ''
+  youtube_id: -1MbzJIUTV4
 ---
