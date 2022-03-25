@@ -49,7 +49,7 @@ SOLUTIONS
 [Recitation 4 (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec4)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recitation 4 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec4_soln)
+[Recitation 4 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec4_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +94,7 @@ SOLUTIONS
 [Recitation 9 (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec9)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recitation 9 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec9_soln)
+[Recitation 9 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec9_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +103,7 @@ SOLUTIONS
 [Recitation 10 (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec10)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recitation 10 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec10_soln)
+[Recitation 10 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec10_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +121,7 @@ SOLUTIONS
 [Recitation 12 (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec12)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recitation 12 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec12_soln)
+[Recitation 12 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec12_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +130,7 @@ SOLUTIONS
 [Recitation 13 (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec13)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recitation 13 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec13_soln)
+[Recitation 13 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec13_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +139,7 @@ SOLUTIONS
 [Recitation 14 (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec14)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Recitation 14 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec14_soln)
+[Recitation 14 Solutions (PDF)]({{< baseurl >}}/resources/mit8_701f20_rec14_soln)
 {{< tdclose >}}
 
 {{< trclose >}}
